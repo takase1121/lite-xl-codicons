@@ -6,7 +6,7 @@
 @font-face {
 	font-family: "codicon";
 	font-display: block;
-	src: url("./codicon.ttf?2ab61cbaefbdf4c7c5589068100bee0c") format("truetype");
+	src: url("./codicon.ttf?0b0be45978d8b347fce7eff5292de70a") format("truetype");
 }
 
 .codicon[class*='codicon-'] {
@@ -57,6 +57,31 @@
  *  Icons
  *-------------------*/
 
+.codicon-compat-icon-search-1:before { content: "\4c" }
+.codicon-compat-icon-attention-1:before { content: "\21" }
+.codicon-compat-icon-doc-1:before { content: "\66" }
+.codicon-compat-icon-folder-1:before { content: "\64" }
+.codicon-compat-icon-folder-open-1:before { content: "\44" }
+.codicon-compat-icon-cog:before { content: "\50" }
+.codicon-compat-icon-angle-right:before { content: "\2b" }
+.codicon-compat-icon-angle-down:before { content: "\2d" }
+.codicon-compat-icon-chart-line:before { content: "\67" }
+.codicon-compat-icon-floppy:before { content: "\53" }
+.codicon-compat-icon-book:before { content: "\42" }
+.codicon-compat-icon-info-circled-1:before { content: "\69" }
+.codicon-compat-icon-cancel-1:before { content: "\43" }
+.codicon-compat-icon-window-minimize:before { content: "\5f" }
+.codicon-compat-icon-window-restore:before { content: "\77" }
+.codicon-compat-icon-window-close:before { content: "\58" }
+.codicon-compat-icon-menu-1:before { content: "\4d" }
+.codicon-compat-icon-window-maximize:before { content: "\57" }
+.codicon-compat-icon-left-open:before { content: "\3c" }
+.codicon-compat-icon-right-open:before { content: "\3e" }
+.codicon-compat-icon-lite-xl1:before { content: "\36" }
+.codicon-compat-icon-lite-xl2:before { content: "\37" }
+.codicon-compat-icon-lite-xl3:before { content: "\39" }
+.codicon-compat-icon-lite-xl4:before { content: "\38" }
+.codicon-compat-icon-lite-xlbg:before { content: "\35" }
 .codicon-add:before { content: "\ea60" }
 .codicon-plus:before { content: "\ea60" }
 .codicon-gist-new:before { content: "\ea60" }
